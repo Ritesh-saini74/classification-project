@@ -1,7 +1,7 @@
 # classification-project
 
 
-Problem Statement
+**PROBLEM STATEMENT**
 
 The data contains information regarding mobile phone features, specifications etc and their price range. The various features and information can be used to predict the price range of a mobile phone.
 
@@ -47,7 +47,7 @@ Has touch screen or not
 
 Has wifi or not
 
-Project Summary 
+**PROJECT SUMMARY**
 
 Mobile phones come in all sorts of prices, features, specifications and all. Price estimation and prediction is an important part of consumer strategy. Deciding on the correct price of a product is very important for the market success of a product.
 
@@ -72,7 +72,7 @@ After the EDA, the study performed HYPOTHESIS TESTING on three statements and ha
 
 The study then performed FEATURE ENGINEERING and implemented Machine Learning Models such as LOGISTIC REGRESSION, RANDOM FOREST, and XGBoost. Based on the experiments, the study concluded that logistic regression and XGBoost algorithms with hyperparameter tuning yielded the best results in predicting the price range of mobile phones.
 
-Conclusion
+**CONCLUSION**
 
 Based on the exploratory data analysis (EDA), we observed that the mobile phones in the dataset are divided into four different price ranges, each having a similar number of elements. Additionally, we found that approximately half of the devices have Bluetooth, while the other half do not. Furthermore, we noted that as the price range increases, there is a gradual increase in battery power, and RAM shows continuous growth from low-cost to very high-cost phones. Moreover, the costly phones tend to be lighter than the lower-priced ones.
 
